@@ -13,3 +13,11 @@ Resultado:
 ![image](https://github.com/user-attachments/assets/8a3bec90-81c8-4454-acc7-a5e8834f951e)
 Caso falso:
 ![image](https://github.com/user-attachments/assets/618e8952-bae8-4a68-b8e1-230125ac4e36)
+Ejemplo While
+![image](https://github.com/user-attachments/assets/716a1067-df04-4cd5-8485-2519e08970f1)
+Resultado:
+![image](https://github.com/user-attachments/assets/15c58ca3-016c-4a3e-829f-87bd00b6ab82)
+Ejemplo For
+![image](https://github.com/user-attachments/assets/c7dc9556-aa23-4855-8c7b-230cb8fad5da)
+Resultado:
+![image](https://github.com/user-attachments/assets/f75fa2fd-edec-4fdf-adf9-8969d6ae1af6)
